@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6489bd9d-dae0-4baa-a4b2-85231edc35d0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="p.i.m.s@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="p.i.m.s@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="p.i.m.s@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="p.i.m.s: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="p.i.m.s@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="p.i.m.s: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="inmate_details: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="p.i.m.s@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="p.i.m.s: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="transfer: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="P.I.M.S" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/staff">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/checklogin.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/config.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/header.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-inmate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7174">
+              <caret line="422" selection-start-line="422" selection-end-line="422" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-visitors.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2652">
+              <caret line="162" column="60" selection-start-line="162" selection-start-column="60" selection-end-line="162" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/supervisor/manage-transfer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="95" column="205" selection-start-line="95" selection-start-column="205" selection-end-line="95" selection-end-column="250" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updationDate</find>
+      <find>header.php</find>
+      <find>-moz</find>
+      <find>container-fluid container-fullw bg-white</find>
+      <find>.container-fluid</find>
+      <find>.container-fluid container-fullw bg-white</find>
+      <find>#007AFF</find>
+      <find>a</find>
+      <find>item-media</find>
+      <find>email-availability-status</find>
+      <find>doctor</find>
+      <find>edit</find>
+      <find>fess</find>
+      <find>email</find>
+      <find>addoc</find>
+      <find>adddoc</find>
+      <find>docemail</find>
+      <find>searchdata</find>
+      <find>submit</find>
+      <find>logo</find>
+      <find>margin-top-30</find>
+      <find>jquery.min.js</find>
+      <find>a href=&quot;#&quot; class=&quot;sidebar-toggler pull-right visible-md visible-lg&quot; data-toggle-class=&quot;app-sidebar-closed&quot; data-toggle-target=&quot;#app&quot;</find>
+      <find>.navbar-collapse</find>
+      <find>pull-right</find>
+      <find>menu-toggler</find>
+      <find>15</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/view-transfer.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/include/header.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/manage-inmates.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/view-inmate.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/manage-jailors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/manage-visitors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/view-visits.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/manage-transfer.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/dashboard.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/dashboard.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/btn_date_inmate_detail-reports.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/btn_date_transfer_detail-reports.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/btn_date_visit_detail-reports.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/transfer.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/add-staff.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/view-feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-inmates.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/view-inmate.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/add-jailor.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-jailors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/sendfeedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/view-feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/reply.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/seen-feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/dashboard.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/readquery.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/unreadquery.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/manage-visitors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/view-visits.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/view-visits.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-visitors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/supervisor-logs.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/jailor-logs.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/unseen-feedback.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/staff-logs.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/index.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/change-password.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/change-password.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/change-password.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/admin/edit-jailor.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/manage-transfer.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/supervisor/edit-transfer.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-inmate.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-visitors.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/staff/change-password.php" />
+        <option value="$PROJECT_DIR$/Penal/p.i.m.s/logout.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="69" />
+    <option name="width" value="697" />
+    <option name="height" value="656" />
+  </component>
+  <component name="ProjectId" id="1Zqoia64RRoAj8sxWbOiFLRVQIA" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+              <item name="jailor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+              <item name="staff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+              <item name="staff" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P.I.M.S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P.I.M.S" type="462c0819:PsiDirectoryNode" />
+              <item name="Penal" type="462c0819:PsiDirectoryNode" />
+              <item name="p.i.m.s" type="462c0819:PsiDirectoryNode" />
+              <item name="supervisor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../User-Management-PHP-MYSQL-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="sql.rename.search.for.storage.occurrences" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal" />
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal\p.i.m.s" />
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal\p.i.m.s\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal\p.i.m.s\supervisor" />
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal\p.i.m.s" />
+      <recent name="C:\xampp\htdocs\P.I.M.S\Penal\css" />
+      <recent name="C:\xampp\htdocs\P.I.M.S" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:/P.I.M.S/Penal/p.i.m.s/admin/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6489bd9d-dae0-4baa-a4b2-85231edc35d0" name="Default Changelist" comment="" />
+      <created>1585576114720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585576114720</updated>
+      <workItem from="1585576122012" duration="1936000" />
+      <workItem from="1586014986979" duration="143000" />
+      <workItem from="1586015166252" duration="1759000" />
+      <workItem from="1586149626182" duration="7624000" />
+      <workItem from="1586529120174" duration="6503000" />
+      <workItem from="1586860776857" duration="1968000" />
+      <workItem from="1587112359175" duration="5290000" />
+      <workItem from="1588005984510" duration="5518000" />
+      <workItem from="1588082994916" duration="3878000" />
+      <workItem from="1590298198770" duration="536000" />
+      <workItem from="1590355453252" duration="676000" />
+      <workItem from="1590356283520" duration="710000" />
+      <workItem from="1590357704660" duration="3037000" />
+      <workItem from="1590391581049" duration="26000" />
+      <workItem from="1590391856846" duration="325000" />
+      <workItem from="1591369034032" duration="3248000" />
+      <workItem from="1591439018599" duration="8715000" />
+      <workItem from="1591536660783" duration="6349000" />
+      <workItem from="1591707809099" duration="586000" />
+      <workItem from="1591710672470" duration="2589000" />
+      <workItem from="1591713380563" duration="14478000" />
+      <workItem from="1591822890813" duration="296000" />
+      <workItem from="1591849179765" duration="1243000" />
+      <workItem from="1591874009704" duration="676000" />
+      <workItem from="1591881329506" duration="629000" />
+      <workItem from="1591947085783" duration="17906000" />
+      <workItem from="1592207037622" duration="566000" />
+      <workItem from="1592208273067" duration="304000" />
+      <workItem from="1592208658837" duration="8717000" />
+      <workItem from="1592358195662" duration="597000" />
+      <workItem from="1592379380723" duration="1300000" />
+      <workItem from="1592382445996" duration="102000" />
+      <workItem from="1592382615730" duration="16386000" />
+      <workItem from="1592440604412" duration="15631000" />
+      <workItem from="1592479230714" duration="123000" />
+      <workItem from="1592479985061" duration="4480000" />
+      <workItem from="1592563778273" duration="19121000" />
+      <workItem from="1592817756058" duration="6291000" />
+      <workItem from="1592825017216" duration="3404000" />
+      <workItem from="1592916149948" duration="53533000" />
+      <workItem from="1593064450291" duration="3673000" />
+      <workItem from="1593092055568" duration="6617000" />
+      <workItem from="1593167608979" duration="592000" />
+      <workItem from="1593493875009" duration="5458000" />
+      <workItem from="1593517132962" duration="564000" />
+      <workItem from="1593781495323" duration="3279000" />
+      <workItem from="1594158871290" duration="20058000" />
+      <workItem from="1594288259802" duration="12779000" />
+      <workItem from="1594361901038" duration="781000" />
+      <workItem from="1594365532495" duration="115000" />
+      <workItem from="1594375094164" duration="10066000" />
+      <workItem from="1594403846056" duration="18800000" />
+      <workItem from="1595305330662" duration="28441000" />
+      <workItem from="1595399150502" duration="11446000" />
+      <workItem from="1595563922147" duration="2980000" />
+      <workItem from="1595568080059" duration="604000" />
+      <workItem from="1595570984147" duration="22273000" />
+      <workItem from="1595617532134" duration="21690000" />
+      <workItem from="1595675972164" duration="61261000" />
+      <workItem from="1595867785383" duration="9961000" />
+      <workItem from="1595918982147" duration="1791000" />
+      <workItem from="1595922064263" duration="175000" />
+      <workItem from="1595922760565" duration="83566000" />
+      <workItem from="1596380824446" duration="4367000" />
+      <workItem from="1596623785637" duration="5743000" />
+      <workItem from="1596636293393" duration="700000" />
+      <workItem from="1596660685237" duration="2600000" />
+      <workItem from="1596688066479" duration="5614000" />
+      <workItem from="1596713639298" duration="5846000" />
+      <workItem from="1596789493219" duration="11107000" />
+      <workItem from="1597306405497" duration="1439000" />
+      <workItem from="1597670584099" duration="14672000" />
+      <workItem from="1597693541894" duration="727000" />
+      <workItem from="1597754666749" duration="9148000" />
+      <workItem from="1597821219755" duration="30051000" />
+      <workItem from="1597864667199" duration="80000" />
+      <workItem from="1597865906787" duration="510000" />
+      <workItem from="1597866467795" duration="13423000" />
+      <workItem from="1597903161334" duration="2960000" />
+      <workItem from="1599211383295" duration="1063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="624290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="69" width="697" height="656" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.21104388" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6666667" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22734255" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.1827957" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.43317974" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" weight="0.6205837" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.32872504" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.18683812" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.18683812" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6666667" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22734255" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.1827957" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.43317974" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" weight="0.6205837" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.32872504" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.17473525" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="142" key="FileChooserDialogImpl" timestamp="1590355991834">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="489" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590355991834" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1590356054882">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1590356054882" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1590391859527">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590391859527" />
+    <state x="377" y="241" width="665" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590355997504">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="377" y="241" width="665" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1590355997504" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/supervisor/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="73" column="80" selection-start-line="73" selection-start-column="80" selection-end-line="73" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/btn_date_transfer_detail-reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="64" column="50" lean-forward="true" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/visitor_details">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/transfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="89" column="58" lean-forward="true" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/view-feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/btn_date_visit_detail-reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/add-staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="180" column="57" selection-start-line="180" selection-start-column="57" selection-end-line="180" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/view-inmate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-inmates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="82" selection-start-line="80" selection-start-column="82" selection-end-line="80" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/add-jailor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/sendfeedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding>
+            <element signature="e#6#162#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/reply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/seen-feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/feedback">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/reply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/view-feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="128" column="48" selection-start-line="128" selection-start-column="48" selection-end-line="128" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/manage-inmates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/readquery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="100" column="88" selection-start-line="100" selection-start-column="88" selection-end-line="100" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/unreadquery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="102" column="88" selection-start-line="102" selection-start-column="88" selection-end-line="102" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/view-visits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="115" column="42" lean-forward="true" selection-start-line="115" selection-start-column="42" selection-end-line="115" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-visitors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="94" selection-start-line="83" selection-start-column="94" selection-end-line="83" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/manage-visitors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="77" lean-forward="true" selection-start-line="82" selection-start-column="77" selection-end-line="82" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/supervisor-logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="82" column="176" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/jailor-logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/unseen-feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/staff-logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="183" selection-start-line="82" selection-start-column="183" selection-end-line="82" selection-end-column="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/inmate_details">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1400">
+          <caret line="32" column="117" lean-forward="true" selection-start-line="32" selection-start-column="117" selection-end-line="32" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/change-password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="42" selection-end-line="207" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/supervisor/change-password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/view-visits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="26" column="84" lean-forward="true" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/transfer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/edit-jailor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="24" selection-start-line="158" selection-start-column="24" selection-end-line="158" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="73" column="100" selection-start-line="73" selection-start-column="100" selection-end-line="73" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/staff/change-password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/change-password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="124" column="52" selection-end-line="208" />
+          <folding>
+            <element signature="e#6#156#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/manage-jailors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="118" selection-start-line="103" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/supervisor/edit-transfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="169" selection-start-line="106" selection-start-column="169" selection-end-line="106" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/checklogin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/include/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-inmate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="422" selection-start-line="422" selection-end-line="422" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/jailor/add-visitors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="162" column="60" selection-start-line="162" selection-start-column="60" selection-end-line="162" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/supervisor/manage-transfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="95" column="205" selection-start-line="95" selection-start-column="205" selection-end-line="95" selection-end-column="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Penal/p.i.m.s/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e949b208-31f7-47b8-873b-c32e459edbcf/schema/p.i.m.s/table/staff">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
